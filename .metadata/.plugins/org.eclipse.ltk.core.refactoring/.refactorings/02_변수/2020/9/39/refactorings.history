@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;02_변수/src/com/kh/variable/D_casting.java&apos; to &apos;D_Casting.java&apos;" description="Rename resource &apos;D_casting.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/kh/variable/D_casting.java" name="D_Casting.java" stamp="1600771229302" updateReferences="true"/>
+</session>

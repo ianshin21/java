@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;06-2_2차원 배열 실습/src/com/kh/dimension/DimensinPractice.java&apos; to &apos;DimensionPractice.java&apos;" description="Rename resource &apos;DimensinPractice.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/kh/dimension/DimensinPractice.java" name="DimensionPractice.java" stamp="1602829649428" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;0_프로그래밍기초/src/com/kh/practice/Valueprinter.java&apos; to &apos;ValuePrinter.java&apos;" description="Rename resource &apos;Valueprinter.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/kh/practice/Valueprinter.java" name="ValuePrinter.java" stamp="1600675989165" updateReferences="true"/>
+</session>

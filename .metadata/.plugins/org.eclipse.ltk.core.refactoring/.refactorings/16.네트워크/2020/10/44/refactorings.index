@@ -1,0 +1,4 @@
+1603886808610	Extract local variable 'socket'
+1603887112943	Extract local variable 'is'
+1603887119497	Extract local variable 'os'
+1603887195258	Extract local variable 'br'

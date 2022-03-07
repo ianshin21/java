@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;연습장/src/pro/pr/Gnereics.java&apos; to &apos;Generics.java&apos;" description="Rename resource &apos;Gnereics.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/pro/pr/Gnereics.java" name="Generics.java" stamp="1606564785162" updateReferences="true"/>
+</session>

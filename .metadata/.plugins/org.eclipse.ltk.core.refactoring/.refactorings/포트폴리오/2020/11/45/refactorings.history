@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;포트폴리오/src/com/kh/Application.java&apos; to &apos;MainFram.java&apos;" description="Rename resource &apos;Application.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/kh/Application.java" name="MainFram.java" stamp="1604649503191" updateReferences="true"/>
+</session>

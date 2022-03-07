@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;inum&apos; from expression &apos;scanner.nextLine()&apos;&#x0D;&#x0A;- Original project: &apos;03_연산자&apos;&#x0D;&#x0A;- Variable name: &apos;inum&apos;&#x0D;&#x0A;- Destination method: &apos;com.kh.operator.D_Comparision.method1()&apos;&#x0D;&#x0A;- Variable expression: &apos;scanner.nextLine()&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;inum&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.kh.operator{D_Comparision.java" name="inum" replace="true" selection="1060 19" stamp="1643024812866" varType="false" version="1.0"/>
+</session>

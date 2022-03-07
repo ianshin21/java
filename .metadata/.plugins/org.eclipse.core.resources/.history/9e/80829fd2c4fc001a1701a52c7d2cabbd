@@ -1,0 +1,26 @@
+package com.kh.variable;
+
+public class D_Casting {
+	// 형변환
+	// 컴퓨터에서 값처리 규칙
+	// 1. 대입연산자를 기준으로 왼쪽과 오른쪽은 같은 자료형이여야 된다. 
+	//    자료형 변수명 = 값; 값은 자료형과 같아야 한다. 
+	//    아니면 자료형 변수명 = (자료형)값으로 형변환 casting 해 줘야 한다. 
+	// 2. 같은 자료형끼리만 계산이 가능 --> 게산 결과도 같은 자료형으로 나옴
+	
+	// 1. 자동(묵시적)형변환
+	
+	public void casting1() {
+		
+		short s = 12;
+		int i = s;	//short -> int로 자동형변환 됨, 에러가 안 남
+		long l = i;  // int -> long으로 자동형변환
+		double d = l; // int -> double도 되고, long -> double도 됨
+		
+		System.out.println("s : " + s);
+		System.out.println("i : " + i);
+		System.out.println("l : " + l);
+		System.out.println("d : " + d);
+	}
+
+}

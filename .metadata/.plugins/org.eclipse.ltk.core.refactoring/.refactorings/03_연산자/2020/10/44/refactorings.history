@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;line&apos; from expression &apos;scanner.nextLine()&apos;&#x0D;&#x0A;- Original project: &apos;03_연산자&apos;&#x0D;&#x0A;- Variable name: &apos;line&apos;&#x0D;&#x0A;- Destination method: &apos;com.kh.operator.E_Logical.method2()&apos;&#x0D;&#x0A;- Variable expression: &apos;scanner.nextLine()&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;line&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.kh.operator{E_Logical.java" name="line" replace="true" selection="800 0" stamp="1603630664546" varType="false" version="1.0"/>
+</session>

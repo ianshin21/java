@@ -1,0 +1,6 @@
+1603710322879	Extract local variable 'snack'
+1603711380509	Extract local variable 'keySet'
+1603711455874	Extract local variable 'it'
+1603788605055	Extract local variable 'myGenerics'
+1603789496467	Extract local variable 'list'
+1603789665488	Rename method 'convertList'
